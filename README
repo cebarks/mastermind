@@ -1,0 +1,8 @@
+Just a super-small version of the MASTERMIND game written in 37 lines of ruby.
+
+To play just 
+  chmod +x mastermind.rb
+  ./mastermind.rb
+or you can also just
+  ruby mastermind.rb
+  
